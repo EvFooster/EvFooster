@@ -1,9 +1,3 @@
-<p align="center">
-  <img src=""
- alt="Cyber Tribal Banner" width="100%">
-</p>
-
-<br>
 ## Nenhum passo em falso
 
 <p align="center">
