@@ -1,16 +1,4 @@
 ## Nenhum passo em falso
-<p align="center">
-  <a href="https://github.com/seu-usuario-aqui">
-    <img 
-      src="http://googleusercontent.com/image_generation_content/1" 
-      alt="Irelia Spirit Blossom Banner - GitHub Header" 
-      width="100%" 
-      max-width="900px"
-      style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(244, 143, 177, 0.3); display: block; margin: 0 auto;"
-    />
-  </a>
-</p>
-
 <br>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
