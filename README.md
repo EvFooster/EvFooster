@@ -2,7 +2,7 @@
 # <p align="center">
   <samp>
     <b>┌────────────────────────────────────────────────────────┐</b><br>
-    <b>     ✨ EVELYN FOOOSTER | STATUS DA JOGADORA ✨          </b><br>
+    <b>     ✨ EVELYN FOOOSTER | STATUS NO JOGO ✨          </b><br>
     <b>└────────────────────────────────────────────────────────┘</b>
   </samp>
 </p>
