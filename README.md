@@ -51,13 +51,14 @@
   </tr>
 </table>
 <details>
-  <p align="left">
-    <br />
-    Sou apaixonada por literatura e profundamente fascinada pela <b>filosofia da dor</b> de <i>Fiódor Dostoiévski</i>. Para mim, a forma como ele explora o sofrimento humano e a psique é genial.
-  </p>
-  
-  <blockquote>
-    "O verdadeiro sofrimento, o que nos faz sofrer profundamente, transforma por vezes o homem mais descuidado num homem sério." 
-    <br>
-    — <b>O Duplo</b> (Meu livro favorito do autor 🖤)
-  </blockquote>
+<p align="left">
+  <font face="Georgia, serif" size="4">
+    📚 Gosto de livros e admiro a filosofia de Fiódor Dostoiévski. Meu livro favorito dele é <i>"O Duplo"</i>.
+  </font>
+</p>
+
+<p align="left">
+  <font face="Courier New, monospace" size="3" color="#777777">
+    <i>"Seja como for, eu existo, embora seja apenas para mim mesmo."</i>
+  </font>
+</p>
