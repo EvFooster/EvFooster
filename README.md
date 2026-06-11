@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Evelyn.Fooster&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p><br/> Eu sou não sou desenvolvedor </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Meu+nome+%C3%A9+Evelyn+Foooster)](https://git.io/typing-svg)
+
