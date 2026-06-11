@@ -14,6 +14,6 @@
 
 ### Olá, meu nome é Evelyn!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Evelyn Fooster&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=EvelynFooster&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p><br/> Eu sou desenvolvedor Back–End 1–3 / / Front–End 3–4</p>
