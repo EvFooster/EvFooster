@@ -17,8 +17,6 @@
 
 > *"A calmaria na alma, o movimento no corpo."* – Irelia 🌸⚔️
 > *"M70."* 🌸⚔️
-Aqui você pode escrever aquele bloco de texto sobre você, suas metas no mundo da tecnologia e o que está aprendendo...
-
 ---
 
 <p align="center">
