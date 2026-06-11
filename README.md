@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Evelyn.Fooster&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p><br/> Eu sou não sou desenvolvedor! </p>
-[![Evelyncode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
