@@ -1,4 +1,4 @@
-## <p>Nenhum passo em falso</p>
+## Nenhum passo em falso
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
