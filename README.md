@@ -24,18 +24,20 @@
 <br>
 <img width="1215" height="717" alt="Irelia_55" src="https://github.com/user-attachments/assets/49267d99-53bc-4d63-9592-ba1c5f885486" />
 
-
-</p>
-</p>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=evelyn&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=Evelyn.Fooster&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p><br/> Eu sou não sou desenvolvedor! </p>
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
-<p align="left">
+<table align="left" style="margin-right: 15px; background-color: #ffe4e1; border-left: 5px solid #ffb6c1; border-radius: 4px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); width: 220px;">
+  <tr>
+    <td style="padding: 12px;">
+      <font face="Georgia, serif" size="2" color="#4a4a4a">
+        📌 <b>Nota:</b><br>
+        <i>"Eles são só maridos. A Evelyn Hugo sou eu."</i>
+      </font>
+    </td>
+  </tr>
+</table>
