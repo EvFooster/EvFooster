@@ -50,3 +50,20 @@
     </td>
   </tr>
 </table>
+<details>
+  <summary><b>📚 Minhas Leituras & Filosofia</b></summary>
+  <p align="left">
+    <br />
+    Sou apaixonada por literatura e profundamente fascinada pela <b>filosofia da dor</b> de <i>Fiódor Dostoiévski</i>. Para mim, a forma como ele explora o sofrimento humano e a psique é genial.
+  </p>
+  
+  <blockquote>
+    "O verdadeiro sofrimento, o que nos faz sofrer profundamente, transforma por vezes o homem mais descuidado num homem sério." 
+    <br>
+    — <b>O Duplo</b> (Meu livro favorito do autor 🖤)
+  </blockquote>
+
+  <p>
+    <code><img height="32" src="https://raw.githubusercontent.com/google/fonts/main/ofl/notoemoji/images/emoji_u1f4d6.png" alt="Livro Aberto"/></code>
+  </p>
+</details>
