@@ -1,5 +1,11 @@
 ## Nenhum passo em falso
-# Oie divos e divas 👋
+# <p align="center">
+  <samp>
+    <b>┌────────────────────────────────────────────────────────┐</b><br>
+    <b>     ✨ EVELYN FOOOSTER | STATUS DA JOGADORA ✨          </b><br>
+    <b>└────────────────────────────────────────────────────────┘</b>
+  </samp>
+</p>
 
 > *"A calmaria na alma, o movimento no corpo."* – Irelia 🌸⚔️
 > *"M70."* 🌸⚔️
@@ -21,13 +27,15 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
-
 <p align="left">
-  <font face="Georgia, serif" size="4">
-    Gosto de livros e admiro a filosofia de Fiódor Dostoiévski. Meu livro favorito dele é <i>"O Duplo". Tal frase me marcou para sempre "Seja como for, eu existo, embora seja apenas para mim mesmo."</i>.
-  </font>
-</p>
+
 <img width="1215" height="717" alt="Irelia_55" src="https://github.com/user-attachments/assets/49267d99-53bc-4d63-9592-ba1c5f885486" />
 
-> *"Eu tadinha igual a Irelia e esse gato triste."* 
-<img width="500" height="335" alt="52561495c9fa4914761e617981086ca3" src="https://github.com/user-attachments/assets/c9ae2045-6f11-400a-a193-1ca0ca34e3f1" />
+<div align="center" style="line-height: 1.2;">
+  <font face="Courier New" size="4">
+    <code>🌐 PATH: FULL STACK DEVELOPER</code><br>
+    <font size="3"><i>"Dominando um pouco de cada linguagem para construir universos inteiros."</i></font>
+  </font>
+</div>
+<br>
+</p>
