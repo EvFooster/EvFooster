@@ -27,7 +27,6 @@
     Gosto de livros e admiro a filosofia de Fiódor Dostoiévski. Meu livro favorito dele é <i>"O Duplo". Tal frase me marcou para sempre "Seja como for, eu existo, embora seja apenas para mim mesmo."</i>.
   </font>
 </p>
-
 <p align="center">
-  <img height="280" src="https://unpkg.com/lol-resources@1.0.0/resources/champions/Irelia/centered.png" alt="Irelia - League of Legends"/>
+  <img height="300" src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Irelia_OriginalCentered.jpg" alt="Irelia - League of Legends"/>
 </p>
