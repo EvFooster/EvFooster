@@ -1,12 +1,12 @@
 # <p align="center">
   <samp>
     <b>┌────────────────────────────────────────────────────────┐</b><br>
-    <b>     ✨ EVELYN FOOOSTER | STATUS NO JOGO ✨          </b><br>
+    <b>     ✨ EVELYN FOOOSTER | STATUS IN GAME ✨          </b><br>
     <b>└────────────────────────────────────────────────────────┘</b>
   </samp>
 </p>
 
-> *"Nenhum passo em falso."* – Irelia 🌸⚔️
+> *"No false steps."* 🌸⚔️
 > *"M70."* 🌸⚔️
 ---
 
