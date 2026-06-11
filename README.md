@@ -29,3 +29,5 @@
 </p>
 <img width="1215" height="717" alt="Irelia_55" src="https://github.com/user-attachments/assets/49267d99-53bc-4d63-9592-ba1c5f885486" />
 
+> *"Eu tadinha igual a Irelia e esse gato triste."* 
+<img width="500" height="335" alt="52561495c9fa4914761e617981086ca3" src="https://github.com/user-attachments/assets/c9ae2045-6f11-400a-a193-1ca0ca34e3f1" />
