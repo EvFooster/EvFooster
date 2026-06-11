@@ -1,7 +1,7 @@
 # <p align="center">
   <samp>
     <b>┌────────────────────────────────────────────────────────┐</b><br>
-    <b>     ✨ EVELYN FOOOSTER | STATUS IN GAME ✨          </b><br>
+    <b>     ✨ EVELYN FOOOSTER | IN-GAME STATUS ✨          </b><br>
     <b>└────────────────────────────────────────────────────────┘</b>
   </samp>
 </p>
@@ -35,8 +35,8 @@
   <tr>
     <td style="padding: 12px;">
       <font face="Georgia, serif" size="2" color="#4a4a4a">
-        📌 <b>Nota:</b><br>
-        <i>"Eles são só maridos. A Evelyn Hugo sou eu."</i>
+        📌 <b>Note:</b><br>
+        <i>"They are just husbands. Evelyn Hugo is me.."</i>
       </font>
     </td>
   </tr>
