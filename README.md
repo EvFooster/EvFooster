@@ -22,7 +22,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 
-    Gosto de livros e admiro a filosofia de Fiódor Dostoiévski. Meu livro favorito dele é <i>"O Duplo"</i>.
+<p align="left">
+  <font face="Georgia, serif" size="4">
+    📚 Gosto de livros e admiro a filosofia de Fiódor Dostoiévski. Meu livro favorito dele é <i>"O Duplo"</i>.
   </font>
 </p>
 
