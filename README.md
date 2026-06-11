@@ -27,6 +27,5 @@
     Gosto de livros e admiro a filosofia de Fiódor Dostoiévski. Meu livro favorito dele é <i>"O Duplo". Tal frase me marcou para sempre "Seja como for, eu existo, embora seja apenas para mim mesmo."</i>.
   </font>
 </p>
-
 <img width="1215" height="717" alt="Irelia_55" src="https://github.com/user-attachments/assets/49267d99-53bc-4d63-9592-ba1c5f885486" />
 
