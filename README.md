@@ -24,12 +24,6 @@
 
 <p align="left">
   <font face="Georgia, serif" size="4">
-    📚 Gosto de livros e admiro a filosofia de Fiódor Dostoiévski. Meu livro favorito dele é <i>"O Duplo"</i>.
-  </font>
-</p>
-
-<p align="left">
-  <font face="Courier New, monospace" size="3" color="#777777">
-    <i>"Seja como for, eu existo, embora seja apenas para mim mesmo."</i>
+    📚 Gosto de livros e admiro a filosofia de Fiódor Dostoiévski. Meu livro favorito dele é <i>"O Duplo" "Seja como for, eu existo, embora seja apenas para mim mesmo."</i>.
   </font>
 </p>
