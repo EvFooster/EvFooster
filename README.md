@@ -28,3 +28,6 @@
   </font>
 </p>
 
+<p align="center">
+  <img height="280" src="https://unpkg.com/lol-resources@1.0.0/resources/champions/Irelia/centered.png" alt="Irelia - League of Legends"/>
+</p>
