@@ -1,6 +1,6 @@
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&height=100&lines=Ol%C3%A1%2C+Bem-vindo+ao+meu+perfil!;Aceita+um+cafe?;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&height=100&lines=Ol%C3%A1%2C+Bem-vindo+ao+meu+perfil!;Aceita+um+cafe?;Me+chame+por+Ev;" alt="Typing SVG" />
 </a> <p align="center">
   <samp>
     <b>┌────────────────────────────────────────────────────────┐</b><br>
@@ -53,3 +53,4 @@
 ⠀⠀⠀⠀ ⠑⢳⡀⢐⡜⢊⠆
 ⠀⠀⠀⊹⠀⡏⠩⡆⢀⠍⡁⠀
 ⠀⠀⠀⠀⠀⠱⠄⠽⠍⠤⠃ ⊹
+
