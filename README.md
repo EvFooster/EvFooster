@@ -30,14 +30,3 @@
 </div>
 
 ###
-
----
-
-*💜⚔️ No false steps. M75💜⚔️*
-
-<img width="1215" height="717" alt="Irelia_55" src="https://github.com/user-attachments/assets/49267d99-53bc-4d63-9592-ba1c5f885486" />
-<img src="https://img.shields.io/static/v1?label=Overview&message=ZackFoostertr&color=9B5DE5&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-<table align="left" style="margin-right: 15px; background-color: #ffe4e1; border-left: 5px solid #ffb6c1; border-radius: 4px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); width: 220px;">
-  <tr>
-    
----
