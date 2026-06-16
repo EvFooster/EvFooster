@@ -1,7 +1,7 @@
 <img width="1198" height="302" alt="image" src="https://github.com/user-attachments/assets/7b4d973f-5f0b-4d32-a1be-8ec3f0b236f6" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&height=100&lines=+Bem-vindo+ao+meu+perfil!;Aceitas+um+cafe?;Me+chamo+Evelyn;Sou+mono+Irelia+nas+horas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&height=100&lines=+Bem-vindo+ao+meu+perfil!;Aceitas+um+cafe?;Me+chamo+Evelyn;Sou+mono+Irelia+nas+horas+vagas" alt="Typing SVG" />
 </a> <p align="center">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
