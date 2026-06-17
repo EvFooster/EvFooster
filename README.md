@@ -11,8 +11,8 @@
 
 <div align="center" style="line-height: 1.2;">
   <font face="Courier New" size="4">
-    <code>🌐 PATH</code><br>
-    <font size="3"><i>"Dominando um pouco de cada linguagem para construir universos inteiros."</i></font>
+    <code>🌐 Dominando um pouco de cada linguagem para construir universos inteiros. </code><br>
+    <font size="3"><i></i></font>
   </font>
 </div>
 <br>
@@ -24,7 +24,7 @@
 </picture>
 
 ###
-
+[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=evfooster&bg_color=000000&line=9F7AEA&point=9F7AEA&color=9F7AEA&title_color=9F7AEA&axis_color=9F7AEA)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/4b/ea/ca/4beaca89dc536ab5b2766d00af2f095e.gif"  />
 </div>
