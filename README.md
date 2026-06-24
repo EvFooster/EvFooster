@@ -8,15 +8,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=55o9aqc0zkax2pgkuvawfswf3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" />
   </a>
 
-
-<div align="center" style="line-height: 1.2;">
-  <font face="Courier New" size="4">
-    <code>🌐 Dominando um pouco de cada linguagem para construir universos inteiros. </code><br>
-    <font size="3"><i></i></font>
-  </font>
-</div>
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evfooster/evfooster/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evfooster/evfooster/pacman-output/pacman-contribution-graph.svg">
