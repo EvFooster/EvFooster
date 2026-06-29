@@ -18,5 +18,4 @@
 <div data-importer="image" align="left">
   <img data-importer="image" height="200" src="https://i.pinimg.com/originals/17/c1/9d/17c19d9c504094890cc4ebfbe3fd251d.gif"  />
   <img data-importer="image" height="200" src="https://i.pinimg.com/originals/04/7a/63/047a639d5aff95d91b1fe46a08f21616.gif"  />
-  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/4b/59/fd/4b59fda370de8e90e3b775c51366aac4.gif"  />
 </div>
