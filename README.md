@@ -15,7 +15,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evfooster/evfooster/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-<div data-importer="image" align="left">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/17/c1/9d/17c19d9c504094890cc4ebfbe3fd251d.gif"  />
-  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/04/7a/63/047a639d5aff95d91b1fe46a08f21616.gif"  />
-</div>
+[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=evfooster&bg_color=000000&line=9F7AEA&point=9F7AEA&color=9F7AEA&title_color=9F7AEA&axis_color=9F7AEA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evelyn.schmeier?igsh=a2VmMjA0N2E2eGk0)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Evy-Fooster/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/foostertr.bsky.social)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evelyn.borsato.devcount@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/55o9aqc0zkax2pgkuvawfswf3?si=e850e1b36681400e)
+[![Gravatar](https://img.shields.io/badge/Gravatar-1e8cbe?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/atomic88cff461a5)
