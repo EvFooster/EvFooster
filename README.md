@@ -24,7 +24,6 @@
 ## 💻 Meu Stack Tecnológico:
 
 ### 🎨 Front-end
-Aquí estão as tecnologias que uso para criar interfaces interativas e fluidas:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -33,7 +32,6 @@ Aquí estão as tecnologias que uso para criar interfaces interativas e fluidas:
 ---
 
 ### ⚙️ Back-end
-As ferramentas e linguagens que utilizo para construir a lógica e gerenciar dados:
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
