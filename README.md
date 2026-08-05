@@ -9,7 +9,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=55o9aqc0zkax2pgkuvawfswf3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" />
   </a>
   
-<h3> Só observando de longe. Entre e fique à vontade (mas nem tanto). </h3>
+<h6> Só observando de longe. Entre e fique à vontade (mas nem tanto). </h6>
 
 
 ## ​✨ Onde me encontrar
