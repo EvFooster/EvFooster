@@ -35,7 +35,10 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point.  It's your turn! Move a black (solid) piece.
+<p align="left">
+  <img src="https://img.shields.io/badge/Game%20is%20in%20progress.-0055ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/It's%20your%20turn!%20Move%20a%20black%20piece-0055ff?style=for-the-badge&logoColor=white" />
+</p>
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
