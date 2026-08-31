@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=6CB4EE&center=true&vCenter=true&width=500&height=100&lines=+Bem-vindo+ao+meu+perfil!;Aceitas+um+cafe?;Me+chamo+Evelyn;Sou+mono+Irelia+nas+horas+vagas;Tambem+fui+artista+R34" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=3A5F0BB&center=true&vCenter=true&width=500&height=100&lines=+Bem-vindo+ao+meu+perfil!;Aceitas+um+cafe?;Me+chamo+Evelyn;Sou+mono+Irelia+nas+horas+vagas;Tambem+fui+artista+R34" alt="Typing SVG" />
 </a> <p align="center">
   
 <p align="center">
@@ -19,26 +19,10 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/55o9aqc0zkax2pgkuvawfswf3?si=e850e1b36681400e)
 [![Gravatar](https://img.shields.io/badge/Gravatar-1e8cbe?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/atomic88cff461a5)
 
-## 💻 Meu Stack Tecnológico:
-
-### 🎨 Front-end
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
----
-
-### ⚙️ Back-end
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Game%20is%20in%20progress.-0055ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/It's%20your%20turn!%20Move%20a%20black%20piece-0055ff?style=for-the-badge&logoColor=white" />
 </p>
+
+---------
+<h6> As pessoas mais fortes são aquelas que não têm medo de ficar sozinhas. </h6>
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
@@ -51,7 +35,12 @@
 | 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 
-[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=evfooster&bg_color=000000&line=9F7AEA&point=9F7AEA&color=9F7AEA&title_color=9F7AEA&axis_color=9F7AEA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---------
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&pause=400&color=3A5F0BC&center=true&vCenter=true&width=500&height=100&lines=%E2%9C%A7%EF%BD%A1%EF%BD%A1%E2%97%8B%EF%BD%A1%EF%BD%A1%E2%9C%A7%E2%9C%A7%EF%BD%A1%EF%BD%A1%E2%97%8B%EF%BD%A1%EF%BD%A1%E2%9C%A7%E2%9C%A7%EF%BD%A1%EF%BD%A1%E2%97%8B%EF%BD%A1%EF%BD%A1%E2%9C%A7%E2%9C%A7%EF%BD%A1%EF%BD%A1%E2%97%8B%EF%BD%A1%EF%BD%A1%E2%9C%A7;%E2%9A%8B+%E2%9C%A7+%E2%A0%80%E2%9C%A7+%E2%9A%8B%E2%9A%8B+%E2%9C%A7+%E2%A0%80%E2%9C%A7+%E2%9A%8B%E2%9A%8B+%E2%9C%A7+%E2%A0%80%E2%9C%A7+%E2%9A%8B%E2%9A%8B+%E2%9C%A7+%E2%A0%80%E2%9C%A7+%E2%9A%8B;%E2%8B%86%EF%BD%A1%CB%9A%E2%98%85%EF%BD%A1%CB%9A%E2%8B%86%E2%8B%86%EF%BD%A1%CB%9A%E2%98%85%EF%BD%A1%CB%9A%E2%8B%86%E2%8B%86%EF%BD%A1%CB%9A%E2%98%85%EF%BD%A1%CB%9A%E2%8B%86%E2%8B%86%EF%BD%A1%CB%9A%E2%98%85%EF%BD%A1%CB%9A%E2%8B%86" alt="Typing SVG" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evfooster/evfooster/pacman-output/pacman-contribution-graph-dark.svg">
