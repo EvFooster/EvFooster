@@ -8,11 +8,9 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=55o9aqc0zkax2pgkuvawfswf3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" />
   </a>
-  
-<img width="1200" height="220" alt="image" src="https://github.com/user-attachments/assets/c784a736-e6b2-431f-a7eb-4f7c5fcfda35" />
 
-<h4> Entusiasta por aprender e movida pela curiosidade, estou constantemente explorando novas áreas e atirando para vários lados. Recentemente, mergulhei nos estudos de programação. Valorizo feedbacks e estou sempre aberta a opiniões e críticas. </h4>
-<h4> Possuo formação técnica em Informática e Administração, com experiência recente no setor de Gastronomia. Atuei como artista digital por contrato desde 2019 á 2025, atualmente desenvolvendo projetos sob demanda, possuo comissões individuais abertas com algumas restrições. </h4>
+<h5> Entusiasta por aprender e movida pela curiosidade, estou constantemente explorando novas áreas e atirando para vários lados. Recentemente, mergulhei nos estudos de programação. Valorizo feedbacks e estou sempre aberta a opiniões e críticas. </h5>
+<h5> Possuo formação técnica em Informática e Administração, com experiência recente no setor de Gastronomia. Atuei como artista digital por contrato desde 2019 á 2025, atualmente desenvolvendo projetos sob demanda, possuo comissões individuais abertas com algumas restrições. </h5>
 
  ---------
 
