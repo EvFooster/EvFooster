@@ -1,5 +1,7 @@
+<img width="1194" height="196" alt="image" src="https://github.com/user-attachments/assets/aa1568d6-d4c5-4c99-9d43-fd3deeb95dd0" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=3A5F0BB&center=true&vCenter=true&width=500&height=100&lines=+Bem-vindo+ao+meu+perfil!;Aceitas+um+cafe?;Me+chamo+Evelyn;Sou+mono+Irelia+nas+horas+vagas;Tambem+fui+artista+R34" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=B388FF&center=true&vCenter=true&width=500&height=100&lines=+Bem-vindo+ao+meu+perfil!;Aceitas+um+cafe?;Me+chamo+Evelyn;Sou+mono+Irelia+nas+horas+vagas;Tambem+fui+artista+R34" alt="Typing SVG" />
 </a> <p align="center">
   
 <p align="center">
@@ -7,22 +9,48 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=55o9aqc0zkax2pgkuvawfswf3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" />
   </a>
   
-<h6> Só observando de longe. Entre e fique à vontade (mas nem tanto). </h6>
+<img width="1200" height="220" alt="image" src="https://github.com/user-attachments/assets/c784a736-e6b2-431f-a7eb-4f7c5fcfda35" />
 
+<h4> Entusiasta por aprender e movida pela curiosidade, estou constantemente explorando novas áreas e atirando para vários lados. Recentemente, mergulhei nos estudos de programação. Valorizo feedbacks e estou sempre aberta a opiniões e críticas. </h4>
+<h4> Possuo formação técnica em Informática e Administração, com experiência recente no setor de Gastronomia. Atuei como artista digital por contrato desde 2019 á 2025, atualmente desenvolvendo projetos sob demanda, possuo comissões individuais abertas com algumas restrições. </h4>
 
-## ​✨ Onde me encontrar
+ ---------
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evelyn.schmeier?igsh=a2VmMjA0N2E2eGk0)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Evy-Fooster/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/foostertr.bsky.social)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/55o9aqc0zkax2pgkuvawfswf3?si=e850e1b36681400e)
-[![Gravatar](https://img.shields.io/badge/Gravatar-1e8cbe?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/atomic88cff461a5)
+<h2> Ferramentas </h2>
 
-</p>
+![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-332929?style=for-the-badge&logo=krita&logoColor=white)
 
----------
-<h6> As pessoas mais fortes são aquelas que não têm medo de ficar sozinhas. </h6>
+<h2> Linguagens </h2>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+<h2> Sistemas </h2>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Huion](https://img.shields.io/badge/Huion-00B2A9?style=for-the-badge&logo=huion&logoColor=white)
+
+<h2> Redes </h2>
+
+![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)
+
+  ---------
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
@@ -35,16 +63,16 @@
 | 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
 
----------
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&pause=400&color=3A5F0BC&center=true&vCenter=true&width=500&height=100&lines=%E2%9C%A7%EF%BD%A1%EF%BD%A1%E2%97%8B%EF%BD%A1%EF%BD%A1%E2%9C%A7%E2%9C%A7%EF%BD%A1%EF%BD%A1%E2%97%8B%EF%BD%A1%EF%BD%A1%E2%9C%A7%E2%9C%A7%EF%BD%A1%EF%BD%A1%E2%97%8B%EF%BD%A1%EF%BD%A1%E2%9C%A7%E2%9C%A7%EF%BD%A1%EF%BD%A1%E2%97%8B%EF%BD%A1%EF%BD%A1%E2%9C%A7;%E2%9A%8B+%E2%9C%A7+%E2%A0%80%E2%9C%A7+%E2%9A%8B%E2%9A%8B+%E2%9C%A7+%E2%A0%80%E2%9C%A7+%E2%9A%8B%E2%9A%8B+%E2%9C%A7+%E2%A0%80%E2%9C%A7+%E2%9A%8B%E2%9A%8B+%E2%9C%A7+%E2%A0%80%E2%9C%A7+%E2%9A%8B;%E2%8B%86%EF%BD%A1%CB%9A%E2%98%85%EF%BD%A1%CB%9A%E2%8B%86%E2%8B%86%EF%BD%A1%CB%9A%E2%98%85%EF%BD%A1%CB%9A%E2%8B%86%E2%8B%86%EF%BD%A1%CB%9A%E2%98%85%EF%BD%A1%CB%9A%E2%8B%86%E2%8B%86%EF%BD%A1%CB%9A%E2%98%85%EF%BD%A1%CB%9A%E2%8B%86" alt="Typing SVG" />
-  </a>
-</p>
+  ---------
+
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evfooster/evfooster/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evfooster/evfooster/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evfooster/evfooster/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡
+
 
