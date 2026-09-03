@@ -9,8 +9,8 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=55o9aqc0zkax2pgkuvawfswf3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" />
   </a>
 
-<h5> Entusiasta por aprender e movida pela curiosidade, estou constantemente explorando novas áreas e atirando para vários lados. Recentemente, mergulhei nos estudos de programação. Valorizo feedbacks e estou sempre aberta a opiniões e críticas. </h5>
-<h5> Possuo formação técnica em Informática e Administração, com experiência recente no setor de Gastronomia. Atuei como artista digital por contrato desde 2019 á 2025, atualmente desenvolvendo projetos sob demanda, possuo comissões individuais abertas com algumas restrições. </h5>
+<h6> Entusiasta pela curiosidade das funcionalidades das coisas no mundo, estou constantemente atirando para vários lados e aprendendo nichos diferentes. Valorizo feedbacks em meus projetos. </h6>
+<h6> Possuo conhecimento em Info, Adm, com experiência recente no setor de Gastronomia e Eletrônica. Atuei como artista digital por contrato r34 de 2019 á 2025, atualmente desenvolvendo projetos sob demanda, possuo comissões abertas com algumas restrições. </h6>
 
  ---------
 
@@ -18,9 +18,7 @@
 
 ![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-332929?style=for-the-badge&logo=krita&logoColor=white)
 
 <h2> Linguagens </h2>
@@ -28,7 +26,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <h2> Sistemas </h2>
@@ -45,10 +42,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)
 
   ---------
+  
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
