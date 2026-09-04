@@ -9,8 +9,8 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=55o9aqc0zkax2pgkuvawfswf3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" />
   </a>
 
-<h6> Entusiasta pela curiosidade das funcionalidades das coisas no mundo, estou constantemente atirando para vários lados e aprendendo nichos diferentes. Valorizo feedbacks em meus projetos. </h6>
-<h6> Possuo conhecimento em Info, Adm, com experiência recente no setor de Gastronomia e Eletrônica. Atuei como artista digital por contrato r34 de 2019 á 2025, atualmente desenvolvendo projetos sob demanda, possuo comissões abertas com algumas restrições. </h6>
+<h6> Entusiasta pela curiosidade das funcionalidades das coisas, estou constantemente aprendendo nichos diferentes e aos poucos decifrando a funcionalidade do mundo. </h6>
+<h6> Disponho conhecimento técnico em Info e Adm, com experiência recente no setor de Gastronomia e Eletrônica. Atuei como artista digital por contrato r34 de 2019 á 2025, atualmente desenvolvendo projetos sob demanda, possuo comissões abertas com algumas restrições. </h6>
 
  ---------
 
