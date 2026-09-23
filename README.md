@@ -10,7 +10,7 @@
   </a>
 
 <h6> Entusiasta pela curiosidade das funcionalidades das coisas, estou constantemente aprendendo nichos diferentes e aos poucos decifrando a funcionalidade do mundo. </h6>
-<h6> Disponho conhecimento técnico em Info e Adm, com experiência recente no setor de Gastronomia e Eletrônica. Atuei como artista digital por contrato r34 de 2019 á 2025, atualmente desenvolvendo projetos sob demanda, possuo comissões abertas com algumas restrições. </h6>
+<h6> Disponho conhecimento técnico em Info e Adm, com experiência recente no setor de Gastronomia e Eletrônica. Atuei como artista digital por contrato r34 de 2019 á 2025, atualmente possuo sob demanda comissões abertas com algumas restrições. </h6>
 
  ---------
 
